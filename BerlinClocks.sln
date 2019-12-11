@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClocks", "BerlinClocks\BerlinClocks.csproj", "{E96F4CF3-CBEA-47A6-924E-EA8DD652DD06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClocksTest", "BerlinClocksTest\BerlinClocksTest.csproj", "{DF745B86-5301-4DA5-80C9-2806CC306CC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E96F4CF3-CBEA-47A6-924E-EA8DD652DD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96F4CF3-CBEA-47A6-924E-EA8DD652DD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96F4CF3-CBEA-47A6-924E-EA8DD652DD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96F4CF3-CBEA-47A6-924E-EA8DD652DD06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF745B86-5301-4DA5-80C9-2806CC306CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF745B86-5301-4DA5-80C9-2806CC306CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF745B86-5301-4DA5-80C9-2806CC306CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF745B86-5301-4DA5-80C9-2806CC306CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {894058AE-7DEE-4E92-AC0B-1E8F19CE2F1A}
+	EndGlobalSection
+EndGlobal

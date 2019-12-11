@@ -1,0 +1,6 @@
+C:\Users\Burcu\Desktop\BerlinClocks\BerlinClocks\bin\Debug\BerlinClocks.exe.config
+C:\Users\Burcu\Desktop\BerlinClocks\BerlinClocks\bin\Debug\BerlinClocks.exe
+C:\Users\Burcu\Desktop\BerlinClocks\BerlinClocks\bin\Debug\BerlinClocks.pdb
+C:\Users\Burcu\Desktop\BerlinClocks\BerlinClocks\obj\Debug\BerlinClocks.csprojAssemblyReference.cache
+C:\Users\Burcu\Desktop\BerlinClocks\BerlinClocks\obj\Debug\BerlinClocks.exe
+C:\Users\Burcu\Desktop\BerlinClocks\BerlinClocks\obj\Debug\BerlinClocks.pdb
